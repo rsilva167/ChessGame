@@ -1,0 +1,8 @@
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\bin\Debug\Chess-Console.exe.config
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\bin\Debug\Chess-Console.exe
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\bin\Debug\Chess-Console.pdb
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\obj\Debug\Chess-Console.csproj.AssemblyReference.cache
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\obj\Debug\Chess-Console.csproj.SuggestedBindingRedirects.cache
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\obj\Debug\Chess-Console.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\obj\Debug\Chess-Console.exe
+C:\Windows\Temp\ws-vs2022\Chess-Console\Chess-Console\obj\Debug\Chess-Console.pdb
